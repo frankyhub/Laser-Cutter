@@ -1,3 +1,3 @@
 ## Laser-Cutter
 
-### Light-Burn Dateien
+Light-Burn Dateien
